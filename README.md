@@ -1,0 +1,1 @@
+# miner4all-checkaccept
